@@ -69,8 +69,11 @@
    ```bash
    pip install -r requirements.txt
    ```
-
-3. Run the main program:
+   or
+   ```bash
+   pip install matplotlib numpy pybamm pandas
+   ```
+4. Run the main program:
    ```bash
    python main.py
    ```
