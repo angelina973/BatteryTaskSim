@@ -1,7 +1,7 @@
 
 # BatteryTaskSim
 
-**BatteryTaskSim** is a Python framework focused on task allocation and thermal simulation for batteries. By integrating PyBaMM for high-precision battery modeling, it supports multi-battery task allocation, simulation, data visualization, and result export. It is ideal for battery management system optimization, thermal performance analysis, and academic research.
+**BatteryTaskSim** is a Python framework focused on task allocation and thermal simulation for batteries based on Pybamm. It supports multi-battery task allocation, simulation, data visualization, and result export.
 
 ---
 
